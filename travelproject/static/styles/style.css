@@ -1,0 +1,22 @@
+.table{
+            
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 630px;
+}
+h1 {
+    text-align: center;
+    position: relative;
+    display: flex;
+    padding: 50px 630px;
+}
+input[type="submit"]
+{
+    width: 70px;
+    align-self: center;
+    font-weight: 600;
+    cursor: pointer;
+    
+    
+}
